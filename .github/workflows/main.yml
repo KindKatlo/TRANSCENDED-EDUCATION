@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcended Education BW</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Transcended Education BW</h1>
+    </header>
+    
+    <nav>
+        <!-- Add navigation links here -->
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Shop</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>About Transcended Education BW</h2>
+            <p>Provide a brief description of your website and the services it offers.</p>
+        </section>
+        
+        <section>
+            <h2>Services</h2>
+            <p>Describe the educational services provided by your website, highlighting the AI-powered interactive features.</p>
+        </section>
+        
+        <section>
+            <h2>Shop</h2>
+            <p>Display and describe the school materials available for purchase on your website.</p>
+        </section>
+        
+        <section>
+            <h2>Contact</h2>
+            <p>Provide contact information for users to get in touch with your website's support team.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Transcended Education BW. All rights reserved.</p>
+    </footer>
+</body>
+</html>
